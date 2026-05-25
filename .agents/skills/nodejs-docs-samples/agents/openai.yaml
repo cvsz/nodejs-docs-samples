@@ -1,0 +1,6 @@
+interface:
+  display_name: "Nodejs Docs Samples"
+  short_description: "Repo-specific patterns and workflows for nodejs-docs-samples"
+  default_prompt: "Use the nodejs-docs-samples repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
